@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi there 👋 
 
-<!--
-**Rishuu10/Rishuu10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Rishav Aryan, 3rd Year B.Tech Student basically into percipient software development, I am a full-stack web developer with exceptional leadership and collaboration skills, I have a creative and focused mindset with a strong sense of ownership. I really enjoy solving real-life problem and converting my thoughts and ideas into a working code. I have experience working with a range of different languages and frameworks and I am always looking for opportunities to work on something new.
 
-Here are some ideas to get you started:
+💻   Full Stack Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✍🏻   Decent competitive programming, DSA, Algo skills.
+
+🌱 I’m currently learning correct strategies to remove software chaos.
+
+👯 I’m looking to collaborate on open source projects using JavaScript.
+
+🥅 2020 Goals: Contribute more to Open Source projects, improve full stack skills.
+
+🍎 Beginner mindset (open to learning)
+
+😄 Pronouns: Coder, Leader and Kind Hearted
